@@ -50,6 +50,9 @@
 
 ## Projects
 
+### [Bachelor’s Thesis: Data Extraction and Language Models](https://github.com/danmorper/tfg_data_extraction)  
+Developed a library for extracting data from BOE PDFs and compared language models like **Llama3** and **Phi-3** using advanced statistical methods.
+
 ### [FastAPI Task Management API](https://github.com/danmorper/fastapi-task-api)  
 Developed a **FastAPI** task management API with full CRUD functionality, JWT-based authentication, and asynchronous database operations using **PostgreSQL** and **SQLAlchemy**.
 
@@ -64,6 +67,7 @@ Implemented a chatbot using **Reflex** Python library.
 
 ### [Web Development and Databases](https://github.com/danmorper/trabajo-base-datos)  
 Built a full-stack web application, integrating modern web technologies with **SQL** and **MongoDB**.
+
 
 ---
 
