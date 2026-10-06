@@ -6,74 +6,77 @@
 
 ---
 
-## Education
-
-- **Master's degree in Mathematics** (specialized in Statistics and Data Science)  
-  *Technical University of Munich, Germany*  
-  Oct 2024 - Present
-
-- **Erasmus Exchange Program** (focused on Data Science and Machine Learning)  
-  *Technical University of Munich, Germany*  
-  Oct 2021 - July 2022
-
-- **Bachelor in Mathematics**  
-  *University of Seville, Spain*  
-  Sep 2018 - July 2024
-
-- **Bachelor in Statistics**  
-  *University of Seville, Spain*  
-  Sep 2018 - July 2024
+I am a mathematics graduate with a background in statistics and data science. At Philips, I work on clinical data processing, statistical analysis and tools that make study information easier to access. My interests include applied statistics, machine learning and useful Python applications.
 
 ---
 
 ## Work Experience
 
-### Intern - Financial Institutions, Country & Portfolio Risk Management  
-**March 2024 - Aug 2024**  
-- Programmed **LLMs (Large Language Models)** in **Python** to extract and analyze financial data for risk management.  
-- Worked with **Git** and **Databricks**.
+### Working Student in R&D AI & Data Science | Philips  
+**Nov 2024 to Present**
 
-### Content Writer - Simpleclub  
-**Aug 2022 - Nov 2022**  
-- Adapted German mathematical content for the Spanish educational system.  
-- Produced various educational lessons.
+* Worked on **Python** processing scripts and a **SQL** database for a clinical study of non-invasive haemodynamic measurements.
+* Processed patient recordings, checked data quality and annotated physiological signals for arrhythmias and artefacts.
+* Worked on bootstrap based predictor selection for a cardiac output regression model and investigated performance differences between patient groups.
+* Developing a **Python/Streamlit** study monitoring dashboard combining Excel and **PostgreSQL** data. Integrated an **Amazon Bedrock AI Data Agent** into a prototype using synthetic data.
+* Deployed and tested a separate **Streamlit/Bedrock prototype on AWS**, using **EC2** and **CloudFront** for HTTPS access.
+* Developed a **Tkinter** image masking application integrating an existing detection model and human review. Colleagues used it to speed up the masking workflow.
+
+### Intern | Raiffeisen Bank International  
+**Mar 2024 to Aug 2024**
+
+* Used **Python** and **large language models** to extract information from banks' annual reports and generate standardised reports.
+* Worked with **Git**, with limited use of **SQL** and **Databricks**.
+
+### Content Writer, Mathematics in Spanish | simpleclub  
+**Aug 2022 to Nov 2022**
+
+* Adapted German mathematics content for the Spanish curriculum and created lessons, exercises and explanations.
+
+---
+
+## Education
+
+* **Master of Science in Mathematics** (focus on Statistics and Data Science)  
+  *Technical University of Munich, Germany*  
+  Oct 2024 to Sep 2026
+
+* **Erasmus Exchange Program** (focused on Data Science and Machine Learning)  
+  *Technical University of Munich, Germany*  
+  2021 to 2022
+
+* **Bachelor's Degree in Mathematics**  
+  *University of Seville, Spain*  
+  2018 to 2024
+
+* **Bachelor's Degree in Statistics**  
+  *University of Seville, Spain*  
+  2018 to Aug 2024
 
 ---
 
 ## Skills
 
-- **Programming**: Python, R, SQL, FastAPI, MongoDB, JavaScript, HTML, CSS
-- **Tools**: Databricks, Git/GitHub
-- **Languages**: Spanish (Native), English (C1 - Cambridge), German (B1)
+* **Programming and data**: Python, pandas, R, lme4, SQL, PostgreSQL
+* **Statistics**: Regression, mixed effects models, bootstrap inference, Monte Carlo simulation and analysis of repeated measurements
+* **Applications and tools**: Streamlit, Tkinter, Git/GitHub
+* **Cloud prototype experience**: Amazon Bedrock, AWS EC2, CloudFront
+* **Earlier personal and academic projects**: FastAPI, SQLAlchemy, MongoDB, JavaScript, HTML, CSS, Reflex
+* **Languages**: Spanish (Native), English (C1), German (B2.1)
 
 ---
 
-## Projects
+## Master's Thesis: Cardiac Output Agreement Analysis  
+*Technical University of Munich / Philips, 2026*
 
-### [Bachelor’s Thesis: Data Extraction and Language Models](https://github.com/danmorper/tfg_data_extraction)  
-Developed a library for extracting data from BOE PDFs and compared language models like **Llama3** and **Phi-3** using advanced statistical methods.
+Evaluated agreement between a non-invasive cardiac output method and two invasive reference methods. Analysed **1,470 paired measurements from 152 patients** across two reference cohorts, accounting for repeated observations within patients.
 
-### [FastAPI Task Management API](https://github.com/danmorper/fastapi-task-api)  
-Developed a **FastAPI** task management API with full CRUD functionality, JWT-based authentication, and asynchronous database operations using **PostgreSQL** and **SQLAlchemy**.
-
-### [Swimming Data Management App](https://github.com/danmorper/swimming-app)  
-Developed a **Streamlit** application for managing swimming competition data, including data entry, updates, and visualization.
-
-### [Web Scraping Tool for Swimming Competitions](https://github.com/danmorper/automatization-swimming-data)  
-Created a tool to automatically scrape and process results from swimming competition websites for analysis and reporting.
-
-### [Chatbot Development](https://github.com/danmorper/reflex-tutorial)  
-Implemented a chatbot using **Reflex** Python library.
-
-### [Web Development and Databases](https://github.com/danmorper/trabajo-base-datos)  
-Built a full-stack web application, integrating modern web technologies with **SQL** and **MongoDB**.
-
+Implemented **mixed effects models in R using lme4**, with bootstrap confidence intervals based on resampling patients. Conducted two **Monte Carlo studies** to assess how patient clustering and multiplicative disagreement affect statistical results.
 
 ---
 
 ## Hobbies and Personal Development
 
-- **General Interests**: Enthusiastic about exploring the intersection of mathematics, programming, and languages. Currently improving my German skills.
-- **Sports**: Swimming lover, I used to participate in regional competitions and now swim in my free time among other sports.
-- **Continuous Learning**: Actively engaged in learning new programming languages and technologies, with a focus on AI and machine learning advancements.
-- **Cultural Exchange**: Passionate about cultural exchange, often attending language meetups to improve language skills and learn about new cultures.
+* **General Interests**: I enjoy exploring mathematics, programming and languages. I am continuing to improve my German.
+* **Outdoor Activities**: I enjoy hiking in the Alps. I am starting to climb and explore via ferratas.
+* **Continuous Learning**: I enjoy learning about AI, machine learning and new tools for practical projects.
